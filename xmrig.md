@@ -7,3 +7,5 @@
 [xmrig-2.8.3-gcc-win64.zip](/xmrig-2.8.3-gcc-win64.zip)
 
 [start.cmd](/start.cmd)
+
+[compile_Linux.md](/linux-compile)
