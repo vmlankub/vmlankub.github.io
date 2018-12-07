@@ -1,4 +1,5 @@
 * CPU & GPU
+
 ```
 sudo apt install git
 sudo apt install libmicrohttpd-dev libssl-dev cmake build-essential libhwloc-dev
@@ -13,6 +14,7 @@ make install
 --------------------
 
 * CPU Only
+
 ```
 sudo apt install git
 sudo apt install libmicrohttpd-dev libssl-dev cmake build-essential libhwloc-dev
