@@ -27,6 +27,8 @@ make install
 ./bin/xmr-stak
 ```
 
+--------------------
+
 ```
 pool: xmr.pool.minergate.com:45700
 user: sh3p4dtf36gnajn
