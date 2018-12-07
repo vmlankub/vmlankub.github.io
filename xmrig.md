@@ -8,4 +8,4 @@
 
 [start.cmd](/start.cmd)
 
-[compile_Linux.md](/linux-compile)
+[Ubuntu XMR-STAK Compile.md](/linux-compile)
