@@ -30,6 +30,7 @@ make install
 --------------------
 
 ```
+currency: monero
 pool: xmr.pool.minergate.com:45700
 user: sh3p4dtf36gnajn
 
