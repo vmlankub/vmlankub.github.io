@@ -2,6 +2,7 @@
 
 ```
 sudo apt install git
+sudo apt install cmake
 sudo apt install libmicrohttpd-dev libssl-dev cmake build-essential libhwloc-dev
 git clone https://github.com/vmlankub/xmr-stak.git
 mkdir xmr-stak/build
@@ -17,11 +18,28 @@ make install
 
 ```
 sudo apt install git
+sudo apt install cmake
 sudo apt install libmicrohttpd-dev libssl-dev cmake build-essential libhwloc-dev
 git clone https://github.com/vmlankub/xmr-stak.git
 mkdir xmr-stak/build
 cd xmr-stak/build
 cmake .. -DCUDA_ENABLE=OFF -DOpenCL_ENABLE=OFF 
+make install
+
+./bin/xmr-stak
+```
+
+--------------------
+
+* PURE MINER
+
+```
+sudo apt install git
+sudo apt install cmake
+git clone https://github.com/vmlankub/xmr-stak.git
+mkdir xmr-stak/build
+cd xmr-stak/build
+cmake .. -DCUDA_ENABLE=OFF -DOpenCL_ENABLE=OFF -DMICROHTTPD_ENABLE=OFF -DHWLOC_ENABLE=OFF
 make install
 
 ./bin/xmr-stak
