@@ -6,6 +6,6 @@
 
 [xmrig-2.8.3-gcc-win64.zip](/xmrig-2.8.3-gcc-win64.zip)
 
-[start.cmd](/start.cmd)
+[start-minergate.cmd](/start-mg.cmd) [start-background.cmd](/start-b.cmd)
 
 [Ubuntu XMR-STAK Compile.md](/linux-compile)
