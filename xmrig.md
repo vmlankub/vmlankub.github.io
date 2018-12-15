@@ -1,5 +1,7 @@
 # XMRig Download
 
+``NEW`` [XMRig Auto Deploy ( Win 32 )](/xad-2.8.3-gcc-win32.zip)
+
 [xmrig-2.8.3-gcc-win32.zip](/xmrig-2.8.3-gcc-win32.zip)
 
 [xmrig-2.8.3-msvc-win64.zip](/xmrig-2.8.3-msvc-win64.zip)
