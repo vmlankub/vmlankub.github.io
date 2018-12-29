@@ -1,3 +1,5 @@
+[xmr-stak ubuntu oct18 download](https://raw.githubusercontent.com/vmlankub/vmlankub.github.io/master/xmr-stak-u-1810.zip)
+
 * CPU & GPU
 
 ```
