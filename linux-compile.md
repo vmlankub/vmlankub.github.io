@@ -1,4 +1,10 @@
 # XMR-STAK Linux Compile
+```
+wget https://raw.githubusercontent.com/vmlankub/vmlankub.github.io/master/xmr-stak.sh
+chmod +x xmr-stak.sh
+./xmr-stak.sh
+```
+
 * CPU & GPU
 
 ```
