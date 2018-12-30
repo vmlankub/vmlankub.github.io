@@ -1,10 +1,4 @@
-[xmr-stak Ubuntu Oct18 Download](https://raw.githubusercontent.com/vmlankub/vmlankub.github.io/master/xmr-stak-u-1810.zip)
-```
-Tips :  
-unzip xmr-stak-u-1810.zip
-chmod 777 xmr-stak //might help
-```
-
+# XMR-STAK Linux Compile
 * CPU & GPU
 
 ```
