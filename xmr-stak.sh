@@ -1,5 +1,4 @@
 #!/bin/sh
-sudo apt-get -f install
 sudo apt install git
 sudo apt install cmake
 git clone https://github.com/vmlankub/xmr-stak.git
