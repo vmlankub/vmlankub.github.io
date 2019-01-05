@@ -1,6 +1,6 @@
 # XMR Miner
 
-* [Web Miner](https://mine.arkf.xyz/)
+* [Web Miner](/miner)
 
 * [XMRig](/xmrig)
 
