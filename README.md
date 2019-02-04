@@ -11,7 +11,7 @@
 ``xmr: 43BaTaixRPBZRSsUFCmgHmGGQJS1Fo8J5F8pZ1DHy4dTjZ8XT1C5JwDgu2bHpD4PvQ8Hu3gJEE4MGSwihjKd5XhLD3NtPe5``  
 ``xmr: 88fSChxRJjacayrSceJjCvL13FMfnbQBbGqdETUB8KL7HbjVdntv1YbgLydA8aA2nihwFcc9CjeVbW8ZT2KJDzUiVSDYbJs``
 
-![](https://cdn.jsdelivr.net/gh/vmlankub/www.arkf.xyz@latest/white.png)
+![](https://cdn.jsdelivr.net/gh/vmlankub/www.arkf.xyz/white.png)
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-116309064-2"></script>
