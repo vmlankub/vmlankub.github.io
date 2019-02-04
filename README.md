@@ -10,3 +10,12 @@
 ## Donations
 ``xmr: 43BaTaixRPBZRSsUFCmgHmGGQJS1Fo8J5F8pZ1DHy4dTjZ8XT1C5JwDgu2bHpD4PvQ8Hu3gJEE4MGSwihjKd5XhLD3NtPe5``  
 ``xmr: 88fSChxRJjacayrSceJjCvL13FMfnbQBbGqdETUB8KL7HbjVdntv1YbgLydA8aA2nihwFcc9CjeVbW8ZT2KJDzUiVSDYbJs``
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-116309064-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-116309064-2');
+</script>
